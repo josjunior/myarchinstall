@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+timedatectl set-ntp false
+timedatectl set-time "2023-03-11 22:45"
+timedatectl status

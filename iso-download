@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+cd ~/Downloads/torrents
+firefox https://archlinux.org/releng/releases/2023.03.01/torrent/
+

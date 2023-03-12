@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+mount /dev/sda2 /mnt
+
+swapon /dev/sda1
+
+mount --mkdir /dev/sda3 /mnt/home

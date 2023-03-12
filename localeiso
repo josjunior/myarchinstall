@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+vim /etc/locale.gen
+
+locale-gen
+
+export LANG=pt_BR.UTF-8

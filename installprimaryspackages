@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+pacstrap -K /mnt linux linux-firmware base base-devel dhcpcd man-db pages-db vim
